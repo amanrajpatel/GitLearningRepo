@@ -1,2 +1,2 @@
 # GitLearningRepo
-This repo is a part of gi learning tutorial on apni kaksha
+This repo is a part of git learning tutorial on apni kaksha
